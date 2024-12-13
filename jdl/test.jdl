@@ -1,0 +1,4 @@
+entity UserProfile{
+    name String required
+    gender String
+}
